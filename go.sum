@@ -1,4 +1,4 @@
 github.com/serum-errors/go-serum v0.8.0 h1:hqcED6DxW3IRXxCvvIZXsP0cT1uOyICcQ/yZsDQbNs8=
 github.com/serum-errors/go-serum v0.8.0/go.mod h1:h99dcDVCjuiL3gMcLs8OwnABIBRNm4Nc9qV9gATw1lc=
-github.com/warpfork/go-testmark v0.11.1-0.20221209215503-00b11e244046 h1:3+sdYYamIM4aI8ZkiZ1oAJMCO8/vWt4TkoOy2VoquLU=
-github.com/warpfork/go-testmark v0.11.1-0.20221209215503-00b11e244046/go.mod h1:jhEf8FVxd+F17juRubpmut64NEG6I2rgkUhlcqqXwE0=
+github.com/warpfork/go-testmark v0.11.1-0.20221127032233-5cd7a73883c2 h1:bXKTlluQYzhX6TWXRFSdYNcWjy5reSiAs4kOBmwavTU=
+github.com/warpfork/go-testmark v0.11.1-0.20221127032233-5cd7a73883c2/go.mod h1:jhEf8FVxd+F17juRubpmut64NEG6I2rgkUhlcqqXwE0=
